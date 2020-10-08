@@ -1,2 +1,2 @@
-# express-rest-app
-Sample express application
+# node-rest-app
+Sample Node.js application
