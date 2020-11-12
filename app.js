@@ -7,11 +7,7 @@ const routes = require('./routes');
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
-app.use('/api', routes);
-
-app.get('/', (req, res) => {
-    res.send('Node Application')
-})
+app.use('/', routes);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
