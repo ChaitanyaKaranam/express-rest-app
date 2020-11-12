@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChaitanyaKaranam/express-rest-app.git"
+    "url": "git+https://github.com/ChaitanyaKaranam/node-app.git.git"
   },
   "keywords": [
     "Node.js",
@@ -17,9 +17,9 @@
   "author": "ChaitanyaKaranam",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ChaitanyaKaranam/express-rest-app/issues"
+    "url": "https://github.com/ChaitanyaKaranam/node-app/issues"
   },
-  "homepage": "https://github.com/ChaitanyaKaranam/express-rest-app#readme",
+  "homepage": "https://github.com/ChaitanyaKaranam/node-app#readme",
   "dependencies": {
     "axios": "^0.20.0",
     "cookie-parser": "^1.4.5",
